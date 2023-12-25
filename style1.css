@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+ .nav{
+    width: 100%;
+    height: 60px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+ }
+ .contanier{
+    width: 100%;
+    height: 60px;
+    background-color:rgba(0, 0, 0, 0.762);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 350px;
+ }
+ .boot{
+    width: 30%;
+    height: 30px;
+    color: white;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .aysberq{
+    width:30% ;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap:70px
+ }
+  .a1 {
+    width: 40px;
+    height: 20px;
+    color: white;
+ }
+ .a2 {
+    width: 40px;
+    height: 20px;
+    color: rgb(142, 138, 138);
+    cursor: pointer;
+    transition: 0.1s all;
+ }
+ .a2:hover{
+ color: white;      
+ }
+ .a3 {
+    width: 40px;
+    height: 20px;
+    color:rgb(142, 138, 138);
+    cursor: pointer;
+    transition: 0.1s all;
+ }
+ .a3:hover{
+    color: white;
+ }
+ .a4 {
+    width: 40px;
+    height: 20px;
+    color: rgb(142, 138, 138);
+    cursor: pointer;
+    transition: 0.1s all;
+ }
+ .a4:hover{
+    color: white;}
+ .dan{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+ }
+ .dan1{
+    width: 672px;
+    height: 299px;
+ }
+ .dan1 img{
+  width: 672px;
+  height: 299px;
+ }
+ .dan2{
+    width: 500px;
+    height: 370px;
+    align-items: center;
+    justify-content: center;
+    gap:30px ;
+ }
+ .aaa{
+    width: 400px;
+    height: 180px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .bbb{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(36, 36, 238);
+    gap:30px ;
+    margin-left: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    cursor: pointer;
+    transition: 0.1s all;
+    border-radius: 10px;
+    color: white;
+ }
+ .bbb:hover{
+    background-color: blue;}
+ .cccc{
+  width: 100%;
+  height: 280px;
+  margin-top: 50px;
+    }
+ .ccc{
+    width: 1348px;
+    height: 100px;
+    background-color:rgba(0, 0, 0, 0.664) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    color: white;
+ }   
+ .cey{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    justify-content: center;
+ }
+ .cey1{
+    width: 400px;
+    height: 200px;
+    border: solid 0.1px ;
+ }
+ .part{
+    border: solid 0.1px ;
+    height: 130px;
+ }
+ .u1{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(44, 44, 237);
+    margin-left: 20px;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    transition: 0.1s all;
+    border-radius: 10px;
+    background-color: darkblue;
+ }
+ .u1:hover{
+    background-color: blue;
+}
+ .u2{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(44, 44, 237);
+    margin-left: 20px;
+    margin-top: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    transition: 0.1s all;
+    border-radius: 10px;
+    background-color: darkblue;
+ }
+ .u2:hover{
+    background-color: blue;
+}
+ .u3{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(44, 44, 237);
+    margin-left: 20px;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    transition: 0.1s all;
+    border-radius: 10px;
+    background-color:darkblue;
+ }
+ .u3:hover{
+    background-color: blue;
+}
+.dark{
+    width:100%;
+    height: 120px;
+    background-color:rgba(0, 0, 0, 0.762) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
